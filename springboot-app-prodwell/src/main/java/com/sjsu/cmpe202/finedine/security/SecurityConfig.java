@@ -1,4 +1,4 @@
-package com.sjsu.cmpe272.prodwell.security;
+package com.sjsu.cmpe202.finedine.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.sjsu.cmpe272.prodwell;
+package com.sjsu.cmpe202.finedine;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

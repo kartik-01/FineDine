@@ -1,4 +1,4 @@
-package com.sjsu.cmpe272.prodwell.controller;
+package com.sjsu.cmpe202.finedine.controller;
 
 import java.util.List;
 
@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.sjsu.cmpe272.prodwell.entity.Task;
-import com.sjsu.cmpe272.prodwell.service.TaskService;
+import com.sjsu.cmpe202.finedine.entity.Task;
+import com.sjsu.cmpe202.finedine.service.TaskService;
 
 @CrossOrigin(origins = "http://localhost:3000")
 @RestController

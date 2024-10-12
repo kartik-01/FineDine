@@ -1,10 +1,10 @@
-package com.sjsu.cmpe272.prodwell.service;
+package com.sjsu.cmpe202.finedine.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.sjsu.cmpe272.prodwell.entity.User;
-import com.sjsu.cmpe272.prodwell.repository.UserRepository;
+import com.sjsu.cmpe202.finedine.entity.User;
+import com.sjsu.cmpe202.finedine.repository.UserRepository;
 
 @Service
 public class UserService {

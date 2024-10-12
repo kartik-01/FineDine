@@ -1,4 +1,4 @@
-package com.sjsu.cmpe272.prodwell.service;
+package com.sjsu.cmpe202.finedine.service;
 
 import java.util.List;
 import java.util.UUID;
@@ -6,8 +6,8 @@ import java.util.UUID;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.sjsu.cmpe272.prodwell.entity.Task;
-import com.sjsu.cmpe272.prodwell.repository.TaskRepository;
+import com.sjsu.cmpe202.finedine.entity.Task;
+import com.sjsu.cmpe202.finedine.repository.TaskRepository;
 
 @Service
 public class TaskService {

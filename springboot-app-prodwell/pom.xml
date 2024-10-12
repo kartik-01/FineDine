@@ -8,11 +8,11 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.sjsu.cmpe272.prodwell</groupId>
-	<artifactId>springboot-app-prodwell</artifactId>
+	<groupId>com.sjsu.cmpe202.finedine</groupId>
+	<artifactId>springboot-app-finedine</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>project</name>
-	<description>AI Driven employee wellbeing and productivity tracker</description>
+	<description>FineDine - A restaurant finder App.</description>
 	<url/>
 	<licenses>
 		<license/>

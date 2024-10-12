@@ -1,4 +1,4 @@
-package com.sjsu.cmpe272.prodwell.controller;
+package com.sjsu.cmpe202.finedine.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.sjsu.cmpe272.prodwell.entity.User;
-import com.sjsu.cmpe272.prodwell.service.UserService;
+import com.sjsu.cmpe202.finedine.entity.User;
+import com.sjsu.cmpe202.finedine.service.UserService;
 
 @CrossOrigin(origins = "http://localhost:3000")
 @RestController

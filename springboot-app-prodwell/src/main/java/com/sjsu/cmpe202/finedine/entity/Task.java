@@ -1,4 +1,4 @@
-package com.sjsu.cmpe272.prodwell.entity;
+package com.sjsu.cmpe202.finedine.entity;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
